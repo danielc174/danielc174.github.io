@@ -1,0 +1,33 @@
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+body {
+    font-family: cursive
+    
+}
+
+nav {
+    border-style: solid;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: black;
+}
+
+.profile {
+    text-align:center
+}
+.blog {
+    text-align:center
+}
+
+#myCanvas {
+    border-style: solid;
+    background-color: white;
+}
