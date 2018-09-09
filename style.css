@@ -4,8 +4,7 @@ h1 {
 }
 
 body {
-    font-family: cursive
-    
+    font-family: cursive;
 }
 
 nav {
@@ -21,13 +20,24 @@ a:hover {
 }
 
 .profile {
-    text-align:center
+    text-align: center;
 }
 .blog {
-    text-align:center
+    text-align: center;
+}
+.drawing {
+    text-align: center;
+  
+}
+.google {
+    text-align: center;
 }
 
 #myCanvas {
     border-style: solid;
     background-color: white;
+}
+
+.copy {
+    text-align: end;
 }
