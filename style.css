@@ -25,16 +25,12 @@ a:hover {
 .blog {
     text-align: center;
 }
-.drawing {
-    text-align: center;
   
-}
-.google {
+.title {
+    display: inline;
+    color: blue;
     text-align: center;
 }
-
-#myCanvas {
-    border-style: solid;
     background-color: white;
 }
 
