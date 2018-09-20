@@ -1,18 +1,17 @@
-body {
-    font-family: Arial, Helvetica, sans-serif;
+body, html {
+    height: 100%;
 }
 
+.parallax {
+    /* The image used */
+    background-image: url("robotics.png");
 
-.copy {
-    text-align: end;
-}
+    /* Set a specific height */
+    height: 100%; 
 
-.profile {
-    text-align: center;
-}
-  
-.title {
-    display: inline;
-    color: blue;
-    text-align: center;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
